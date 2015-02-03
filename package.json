@@ -2,7 +2,7 @@
   "name": "STracer.js",
   "version": "0.1.0",
   "description": "Browser stack traces and reporting.",
-  "main": "fixme.js",
+  "main": "STracer.js",
   "scripts": {
     "test": "gulp test"
   },
