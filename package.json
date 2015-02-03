@@ -1,0 +1,32 @@
+{
+  "name": "STracer.js",
+  "version": "0.1.0",
+  "description": "Browser stack traces and reporting.",
+  "main": "fixme.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Incognito/STracer.js"
+  },
+  "keywords": [
+    "stacktrace",
+    "error"
+  ],
+  "author": "Brian Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Incognito/STracer.js/issues"
+  },
+  "homepage": "https://github.com/Incognito/STracer.js",
+  "devDependencies": {
+    "browser-sync": "^2.0.0-rc4",
+    "gulp": "^3.8.10",
+    "gulp-if": "^1.2.5",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.2",
+    "gulp-load-plugins": "^0.8.0",
+    "jshint-stylish": "^1.0.0"
+  }
+}
