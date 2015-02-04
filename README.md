@@ -1,5 +1,7 @@
 # STracer - JS Stack trace reporting
 
+[![Join the chat at https://gitter.im/Incognito/STracer-js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Incognito/STracer-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 STracer is here to help you capture errors that happen on browsers in the wild where you can't traditionally log them with standard equipment.
 
 You can use it to do things like collect errors from the browser and collect them server-side. Maybe other things too. Let me know if you do something neat.
